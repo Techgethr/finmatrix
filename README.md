@@ -1,5 +1,7 @@
 # FinMatrix
 
+In a global ecosystem where the complexity of TradFi and DeFi markets has surpassed the analytical capacity of the average human advisor, FinMatrix emerges as Bittensor's first subnetwork dedicated to democratizing financial 'alpha'. Our architecture doesn't just generate recommendations; it orchestrates a global competition of specialized language models and portfolio optimization algorithms to deliver personalized, private, and mathematically validated financial advice.
+
 ## 1. Introduction
 In today's financial system, high-quality, personalized advice is expensive, opaque, and centralized. The **FinMatrix** Subnet will be created to break down these barriers, leveraging Bittensor's incentive network to build the world's most powerful, private, and distributed financial intelligence engine.
 
