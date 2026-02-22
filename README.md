@@ -1,7 +1,7 @@
-# FinAdvisor AI
+# FinMatrix
 
 ## 1. Introduction
-In today's financial system, high-quality, personalized advice is expensive, opaque, and centralized. The **FinAdvisor AI** Subnet will be created to break down these barriers, leveraging Bittensor's incentive network to build the world's most powerful, private, and distributed financial intelligence engine.
+In today's financial system, high-quality, personalized advice is expensive, opaque, and centralized. The **FinMatrix** Subnet will be created to break down these barriers, leveraging Bittensor's incentive network to build the world's most powerful, private, and distributed financial intelligence engine.
 
 Unlike generic language models, this subnet will be specifically designed to process real-time market data, individual risk profiles, and long-term goals, transforming raw data into actionable, personalized strategies.
 
@@ -14,7 +14,7 @@ Our vision is to establish a global standard where financial advice does not dep
 - **Privacy by Design**: By operating on a decentralized infrastructure, we seek to integrate computing methods that protect the user's identity and assets, ensuring that the advice is private.
 - **Neutrality and Incentives**: Thanks to Bittensor's consensus mechanism, miners are rewarded only for the accuracy and usefulness of their advice, eliminating the conflicts of interest common in traditional advisors that charge commissions for specific products.
 
-_While other subnets focus on text or image generation, FinAdvisor AI focuses on real economic utility. We are building the intelligence layer that will power the next generation of DeFi applications and wealth management platforms._
+_While other subnets focus on text or image generation, FinMatrix focuses on real economic utility. We are building the intelligence layer that will power the next generation of DeFi applications and wealth management platforms._
 
 ## 3. Incentive Mechanism: Multidimensional Performance Evaluation
 The goal is to reward miners who generate financial advice with the best balance between **expected return and risk management**.
@@ -168,3 +168,18 @@ Due to its real-time data architecture, the subnet can act as an early warning s
 - **Scenario**: In the event of a sudden geopolitical event, the subnet detects anomalies in sentiment and on-chain flows, automatically suggesting hedging strategies to protect capital.
 -**Value**: Prevention of catastrophic losses through distributed collective intelligence.
 
+## 6. Conclusion: The New Standard of Financial Sovereignty
+The FinMatrix subnet is not simply an analytical tool; it is the first step toward universal financial autonomy.
+
+Historically, high-precision financial advice has been a wall separating elites from the rest of the world, protected by high costs and institutional opacity. Today, by merging Bittensor's competitive incentive system with decentralized artificial intelligence, we are tearing down that wall.
+
+**Why now?**
+We are at a tipping point where the complexity of the markets (TradFi and DeFi) exceeds the processing capacity of any human advisor or static centralized model. **FinMatrix** offers a solution that is:
+- **Incorruptible**: Incentives are aligned solely with accuracy and performance.
+- **Unreachable by censorship**: A global network of nodes operating without a single point of failure.
+- **Evolutionary**: Thanks to Bittensor's consensus mechanism, the subnetwork's intelligence never stagnates; It improves every second as miners compete for the best alpha.
+
+**The Call to Action**
+We invite validators to ensure the integrity of this new wealth oracle and miners to demonstrate that collective intelligence can outperform any Wall Street hedge fund.
+
+**"The future of finance is not a bank, it's an open intelligence network that works for everyone."**
